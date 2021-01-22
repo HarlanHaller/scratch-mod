@@ -1,7 +1,7 @@
 # hhaller scratch-mod
 ## *V.* 1.0
-#### In this mood i ~~will~~ try to add every block i find or would find usefull.
-#### Blocks i have added:
+#### In this mood I ~~will~~ try to add every block I find or would find usefull.
+#### Blocks I have added:
 * _ != _
 * remove letter _ of _
 * letters _ through _ of _

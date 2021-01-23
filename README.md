@@ -1,5 +1,5 @@
 # hhaller scratch-mod
-## *V.* 1.0
+## *V* 0.1
 #### In this mood I ~~will~~ try to add every block I find or would find usefull.
 #### Blocks I have added:
 * _ != _

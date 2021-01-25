@@ -1,1 +1,1 @@
-web: python -m SimpleHTTPS
+web: cd build && python -m SimpleHTTPS
